@@ -1,6 +1,6 @@
 # Data Scientist/Pharmacist
 
-#### Technical Skills: Python, SQL, AWS, Power BI, Machine Learning
+#### Technical Skills: Python, R, SQL, AWS, Power BI, Tableau, Machine Learning.
 
 ### Education 
 -BPHARM, Pharmacy | Mount Kenya University (_December 2021_)
