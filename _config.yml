@@ -1,0 +1,22 @@
+# Site title and description
+title: Mwende Mutuku's Portfolio
+logo:"C:\Users\Hp\Downloads\Headshot.jpeg"
+description: A showcase of my projects and skills.
+show_downloads :true
+# URL for the site
+url: "https://MwendeMutuku.github.io"  # Replace with your GitHub Pages URL
+
+# Author information
+author:
+  name: "Mwende Mutuku"
+  email: "claremwnde99@gmail.com"  # Replace with your email address
+  bio: "Pharmacist | Data Scientist | Researcher"
+
+# Theme settings (use a theme or define your own)
+theme: "jekyll-theme-minimal"  # Change theme if needed
+
+# Social media links
+social_links:
+  github: "https://github.com/MwendeMutuku"  # Replace with your GitHub username
+  linkedin: "https://linkedin.com/in/mwende-mutuku"  # Replace with your LinkedIn profile URL
+  email: "claremwende99@gmail.com"  # Replace with your email address
