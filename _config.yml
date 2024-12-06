@@ -1,22 +1,20 @@
-# Site title and description
 title: Mwende Mutuku's Portfolio
-logo:"C:\Users\Hp\Downloads\Headshot.jpeg"
-description: A showcase of my projects and skills.
-show_downloads :true
-# URL for the site
-url: "https://MwendeMutuku.github.io"  # Replace with your GitHub Pages URL
+logo: /"C:\Users\Hp\Documents\PROJECTS\Assets\Headshot.jpeg"
+Description: A showcase of my projects and skills.
+show_downloads: true
 
-# Author information
+url: "https://github.com/MutukuMwende/Portfolio" 
+
 author:
   name: "Mwende Mutuku"
-  email: "claremwnde99@gmail.com"  # Replace with your email address
+  email: "claremwnde99@gmail.com" 
   bio: "Pharmacist | Data Scientist | Researcher"
+Dedicated to advancing digital health through data science and AI-driven approaches to innovate and transform healthcare systems
 
-# Theme settings (use a theme or define your own)
-theme: "jekyll-theme-minimal"  # Change theme if needed
+theme: jekyll-theme-minimal
 
-# Social media links
+
 social_links:
-  github: "https://github.com/MwendeMutuku"  # Replace with your GitHub username
-  linkedin: "https://linkedin.com/in/mwende-mutuku"  # Replace with your LinkedIn profile URL
-  email: "claremwende99@gmail.com"  # Replace with your email address
+  github: "https://github.com/MwendeMutuku"  
+  linkedin: "https://linkedin.com/in/mwende-mutuku"  
+  email: "claremwende99@gmail.com" 
