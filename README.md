@@ -4,6 +4,7 @@
 
 ### Education 
 -BPHARM, Pharmacy | Mount Kenya University (_December 2021_)
+
 -Nanodegree, Data Science | ALX ,Explore AI (_August 2024_)
 
 
