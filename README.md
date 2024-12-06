@@ -1,4 +1,5 @@
 # Data Scientist/Pharmacist
+Dedicated to advancing digital health through data science and AI-driven approaches to innovate and transform healthcare systems
 
 #### Technical Skills: Python, R, SQL, AWS, Power BI, Tableau, Machine Learning.
 
