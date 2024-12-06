@@ -22,7 +22,7 @@ I explored how AI can enhance pneumonia detection by fine-tuning a ResNet-18 mod
 ### [Hospital-Analytics-Dashboard](https://github.com/MutukuMwende/Hospital-Analytics-Dashboard)
 This Power BI project analyzes hospital efficiency by exploring factors affecting Length of Stay (LOS) and patient costs. It features an interactive dashboard with navigation buttons to compare LOS, costs, and hospital profiles, providing actionable insights for healthcare improvement.
 
-![Hospital dashboard](/"C:\Users\Hp\Documents\PROJECTS\Assets\Dashboard.png")
+[Hospital dashboard](/"C:\Users\Hp\Documents\PROJECTS\Assets\Dashboard.png")
 
 ### [Pharma-business-sales-Analysis](https://github.com/MutukuMwende/Pharma-business-sales-Analysis)
 This project harnesses the power of data science to uncover actionable insights in pharmaceutical sales, driving smarter strategies and fostering innovation in the industry. With a focus on trends, forecasting, and market segmentation, it showcases how data can transform business outcomes and inspire impactful decisions. 
