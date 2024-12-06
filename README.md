@@ -1,17 +1,21 @@
 # Data Scientist/Pharmacist
 
+#### Technical Skills: Python, SQL, AWS, Power BI, Machine Learning
+
 ### Education 
-Pharmacy ,Bachelor of pharmacy -MKU
-Data Science ,Nanodegree - ALX,EXPLORE AI
+-BPHARM, Pharmacy | Mount Kenya University (_December 2021_)
+-Nanodegree, Data Science | ALX ,Explore AI (_August 2024_)
+
 
 ### Work Experience
-Freelance Datascientist -Remote 
+**Freelance Data Scientist @ Remote sites(_August 2024 - Present_)** 
+
 ### [Jet Scheduling Optimization](https://github.com/MutukuMwende/Time-Series-Prediction-for-flights)
 This project leverages predictive modeling and data analysis to optimize transportation logistics and forecast costs for a sports league. Its approach can be adapted to healthcare, enhancing resource allocation and logistics for critical services.
 
-
 ## Featured Projects
-###[Classifying-X-ray-images-using-Pytorch](https://github.com/MutukuMwende/Classifying-X-ray-images-using-Pytorch)
+
+### [Classifying-X-ray-images-using-Pytorch](https://github.com/MutukuMwende/Classifying-X-ray-images-using-Pytorch)
 I explored how AI can enhance pneumonia detection by fine-tuning a ResNet-18 model to classify chest X-rays as normal or affected. This project combined my passion for data science with healthcare innovation, showcasing how technology can support faster, more accurate diagnoses.
 
 ### [Hospital-Analytics-Dashboard](https://github.com/MutukuMwende/Hospital-Analytics-Dashboard)
