@@ -6,11 +6,11 @@ Driven to revolutionize digital health by leveraging data science, machine learn
 
 ### **About Me**
 
-I’m a pharmacist-turned-data scientist with an unyielding passion for digital health. Growing up, I witnessed how healthcare gaps affected underserved communities, which inspired me to pursue a career at the intersection of healthcare and technology.
+I’m a pharmacist and data scientist on a mission to revolutionize digital health. Growing up, I saw how underserved communities struggled to access quality care, which fueled my drive to use data for change.
 
-Whether it’s analyzing patient data, building predictive models, or creating interactive dashboards, I thrive on finding innovative ways to enhance healthcare systems. My work reflects my commitment to solving real-world challenges and using data to create a healthier, more equitable future.
+By harnessing the power of analytics, I aim to improve healthcare access and outcomes, especially for those who need it most. Whether it’s through building predictive models, creating impactful dashboards, or crafting solutions powered by machine learning, I’m dedicated to making data a catalyst for better care.
 
-I can’t wait to take on more exciting projects that push the boundaries of what’s possible in digital health. Let’s create solutions that change lives, one dataset at a time.
+I’m eager to collaborate on projects pushing healthcare innovation's boundaries, turning raw data into actionable insights and lasting impact. Let’s reimagine what’s possible in digital health together.
 
 #### Technical Skills: Python, R, SQL, AWS, Power BI, Tableau, Machine Learning.
 
